@@ -1,8 +1,7 @@
 
-<!-- TODO: Add more to the title of your project here -->
-# {{ ProjectName }}
+# Learning R and Git in DIfE Potsdam-Rehbrücke
 
-<!-- TODO: Give a brief description of what your project is about -->
+Having fun with R and Git
 
 # Explanation of project folders and files
 
