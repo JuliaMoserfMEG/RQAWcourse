@@ -59,3 +59,5 @@ documentation for details on this setup and workflow. As this layout is also bas
 on R packages, check out the online book on [R packages](http://r-pkgs.had.co.nz/) 
 to learn more about how to make the most use out of this project layout (and why
 prodigenr structures it this way).
+
+Essai
